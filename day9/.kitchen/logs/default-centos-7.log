@@ -1,0 +1,4 @@
+I, [2022-12-01T06:26:39.112336 #4731]  INFO -- default-centos-7: -----> Destroying <default-centos-7>...
+I, [2022-12-01T06:26:39.444102 #4731]  INFO -- default-centos-7: Deleting kitchen sandbox at /root/.dokken/kitchen_sandbox/349edf5e1f-default-centos-7
+I, [2022-12-01T06:26:39.444612 #4731]  INFO -- default-centos-7: Deleting verifier sandbox at /root/.dokken/verifier_sandbox/349edf5e1f-default-centos-7
+I, [2022-12-01T06:26:39.449201 #4731]  INFO -- default-centos-7: Finished destroying <default-centos-7> (0m0.33s).
